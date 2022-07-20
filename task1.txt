@@ -1,4 +1,0 @@
-  PID TTY           TIME CMD
-  695 ttys001    0:00.05 /bin/zsh --login
- 3440 ttys001    0:00.01 /bin/bash ./script.sh
- 3449 ttys001    0:00.00 tee task1.txt
